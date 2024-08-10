@@ -1,4 +1,4 @@
-*.dll
+*.dll abc
 *.exe
 .DS_Store
 bin/
